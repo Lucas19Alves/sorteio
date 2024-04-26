@@ -11,7 +11,7 @@ Este é um aplicativo simples desenvolvido em HTML, CSS e JavaScript que permite
 
 1. Faça um clone deste repositório:
 
-git clone https://github.com/seu-usuario/repo-sorteio-numeros.git
+  git clone https://github.com/seu-usuario/repo-sorteio-numeros.git
 
 2. Abra o arquivo `index.html` em seu navegador web.
 
@@ -29,6 +29,3 @@ git clone https://github.com/seu-usuario/repo-sorteio-numeros.git
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias no código.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
